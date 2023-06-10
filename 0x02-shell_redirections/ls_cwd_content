@@ -1,24 +1,19 @@
-echo "total 20
-drwxrwxr-x  2 julien julien 4096 Sep 20 18:18 .
-drwxrwxrwt 13 root   root   4096 Sep 20 18:18 ..
--rwxrw-r--  1 julien julien   36 Sep 20 18:18 8-cwd_state
--rw-rw-r--  1 betty  julien   23 Sep 20 14:25 hello
--rw-rw-r--  1 julien julien  926 Sep 20 17:52 iacttotal 88
-drwxr-xr-x 2 root root   336 Jun 10 07:49  .
-drwxr-xr-x 6 root root   136 Jun 10 06:31  ..
--rwxr--r-- 1 root root    32 Jun 10 02:42  0-hello_world
--rwxr--r-- 1 root root    28 Jun 10 02:57  1-confused_smiley
--rwxr--r-- 1 root root    28 Jun 10 03:07  2-hellofile
--rwxr--r-- 1 root root    41 Jun 10 03:21  3-twofiles
--rwxr--r-- 1 root root    35 Jun 10 03:32  4-lastlines
--rwxr--r-- 1 root root    35 Jun 10 03:38  5-firstlines
--rwxr--r-- 1 root root    36 Jun 10 04:08  6-third_line
--rwxr--r-- 1 root root    99 Jun 10 07:39  7-file
--rw-r--r-- 1 root root 12288 Jun 10 07:09  .7-file.swn
--rw-r--r-- 1 root root 12288 Jun 10 05:50  .7-file.swo
--rw-r--r-- 1 root root 12288 Jun 10 05:16  .7-file.swp
--rwxr--r-- 1 root root    31 Jun 10 07:47  8-cwd_state
--rw-r--r-- 1 root root    12 Jun 10 07:39 '\*\\'\''"Best School"\'\''\\*$\?\*\*\*\*\*:)'
--rw-r--r-- 1 root root   751 Jun 10 04:08  iacta
--rw-r--r-- 1 root root   275 Jun 10 07:49  ls_cwd_content
--rw-r--r-- 1 root root    24 Jun 10 02:24  README.mda"
+total 84
+drwxr-xr-x 2 root root   336 Jun 10 08:06 .
+drwxr-xr-x 6 root root   136 Jun 10 06:31 ..
+-rwxr--r-- 1 root root    32 Jun 10 02:42 0-hello_world
+-rwxr--r-- 1 root root    28 Jun 10 02:57 1-confused_smiley
+-rwxr--r-- 1 root root    28 Jun 10 03:07 2-hellofile
+-rwxr--r-- 1 root root    41 Jun 10 03:21 3-twofiles
+-rwxr--r-- 1 root root    35 Jun 10 03:32 4-lastlines
+-rwxr--r-- 1 root root    35 Jun 10 03:38 5-firstlines
+-rwxr--r-- 1 root root    36 Jun 10 04:08 6-third_line
+-rwxr--r-- 1 root root    99 Jun 10 07:39 7-file
+-rw-r--r-- 1 root root 12288 Jun 10 07:09 .7-file.swn
+-rw-r--r-- 1 root root 12288 Jun 10 05:50 .7-file.swo
+-rw-r--r-- 1 root root 12288 Jun 10 05:16 .7-file.swp
+-rwxr--r-- 1 root root    36 Jun 10 08:06 8-cwd_state
+-rw-r--r-- 1 root root    12 Jun 10 07:39 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   751 Jun 10 04:08 iacta
+-rw-r--r-- 1 root root     0 Jun 10 08:06 ls_cwd_content
+-rw-r--r-- 1 root root    24 Jun 10 02:24 README.md
